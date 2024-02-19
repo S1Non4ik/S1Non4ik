@@ -10,6 +10,6 @@ About me
 ![MYSQL](https://img.shields.io/badge/-MYSQL-ffffff?style=for-the-dabge&logo=MYSQL&logoColor=0092FE)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-ffffff?style=for-the-dabge&logo=MariaDB&logoColor=FE8700)
 
-### Folow me
+### My contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-dabge&logo=Telegram&logoColor=16c6cc)](https://t.me/rlys1non)
 [![Discord](https://img.shields.io/badge/-Discord-ffffff?style=for-the-dabge&logo=Discord&logoColor=230de0)](https://discordapp.com/users/824476340249821184/)
