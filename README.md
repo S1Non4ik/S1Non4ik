@@ -1,1 +1,1 @@
-[![Header](https://github.com/S1Non4ik/S1Non4ik/blob/main/assets/banner.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Header](https://github.com/S1Non4ik/S1Non4ik/blob/main/assets/CFrnxMtYx0.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
