@@ -16,4 +16,4 @@ About me
 ### My contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-170200?style=for-the-dabge&logo=Telegram&logoColor=16c6cc)](https://t.me/rlys1non)
 [![Discord](https://img.shields.io/badge/-Discord-170200?style=for-the-dabge&logo=Discord&logoColor=230de0)](https://discordapp.com/users/824476340249821184/)
-[![VK](https://img.shields.io/badge/-VK-4034eb?style=for-the-dabge&logo=VK&logoColor=4034eb)](https://vk.com/rlys1non)
+[![VK](https://img.shields.io/badge/-VK-170200?style=for-the-dabge&logo=VK&logoColor=4034eb)](https://vk.com/rlys1non)
