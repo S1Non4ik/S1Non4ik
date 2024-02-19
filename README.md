@@ -11,5 +11,5 @@ About me
 ![MariaDB](https://img.shields.io/badge/-MariaDB-ffffff?style=for-the-dabge&logo=MariaDB&logoColor=FE8700)
 
 ### Folow me
-![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-dabge&logo=Telegram&logoColor=16c6cc)
-![Discord](https://img.shields.io/badge/-Discord-ffffff?style=for-the-dabge&logo=Discord&logoColor=230de0)
+![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-dabge&logo=Telegram&logoColor=16c6cc)(https://t.me/rlys1non)
+![Discord](https://img.shields.io/badge/-Discord-ffffff?style=for-the-dabge&logo=Discord&logoColor=230de0)(https://discordapp.com/users/824476340249821184/)
