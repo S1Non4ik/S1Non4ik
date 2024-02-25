@@ -11,7 +11,7 @@ About me
 [![MariaDB](https://img.shields.io/badge/-MariaDB-170200?style=for-the-dabge&logo=MariaDB&logoColor=FE8700)](https://mariadb.org)
 
 [![Aiogram](https://img.shields.io/badge/-Aiogram-170200?style=for-the-dabge&logo=Telegram&logoColor=16c6cc)](https://aiogram.dev)
-[![Disnake](https://img.shields.io/badge/-Disnake-170200?style=for-the-dabge&logo=Discord&logoColor=230de0)]](https://ru.guide.disnake.dev)
+[![Disnake](https://img.shields.io/badge/-Disnake-170200?style=for-the-dabge&logo=Discord&logoColor=230de0)](https://ru.guide.disnake.dev)
 
 ### My contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-170200?style=for-the-dabge&logo=Telegram&logoColor=16c6cc)](https://t.me/rlys1non)
