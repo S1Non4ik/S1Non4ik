@@ -1,7 +1,7 @@
 [![Header](https://i.imgur.com/vaj0BL1.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 About me
-## Python developer, I work on bots on various sites
+## Python developer
 
 ### Languages and Tools
 [![Python](https://img.shields.io/badge/-Python-170200?style=for-the-dabge&logo=python&logoColor=FEEB00)](https://www.python.org)
